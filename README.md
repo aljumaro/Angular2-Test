@@ -7,7 +7,16 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class`.
+Scaffold  | Usage
+---       | ---
+Component | `ng g component my-new-component`
+Directive | `ng g directive my-new-directive`
+Pipe      | `ng g pipe my-new-pipe`
+Service   | `ng g service my-new-service`
+Class     | `ng g class my-new-class`
+Interface | `ng g interface my-new-interface`
+Enum      | `ng g enum my-new-enum`
+Module    | `ng g module my-module`
 
 ## Build
 
