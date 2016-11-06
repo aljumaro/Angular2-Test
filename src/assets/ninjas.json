@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Yoshi",
+    "belt": "black"
+  },
+  {
+    "id": "2",
+    "name": "Ryu",
+    "belt": "red"
+  },
+  {
+    "id": "3",
+    "name": "Sakura",
+    "belt": "purple"
+  },
+  {
+    "id": "4",
+    "name": "Juanma",
+    "belt": "black"
+  }
+]
